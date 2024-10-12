@@ -1,8 +1,10 @@
 # Air Pollution
 **Problem Statement**
+
 Air pollution is a growing concern in urban areas, particularly in rapidly developing cities like Nairobi. One potential contributor to poor air quality is the increase in the number of imported vehicles, especially older vehicles that may emit more pollutants. This project aims to analyze the relationship between the number of imported vehicles, their age, and the level of air pollution in Nairobi. By leveraging predictive modeling, we seek to quantify the impact that vehicle imports and their average age have on air quality in the city.
 
 **Objective**
+
 To develop a predictive model that can forecast air quality in Nairobi based on the number of imported vehicles and their average age, helping policymakers and environmental bodies to make data-driven decisions on vehicle import policies and their potential environmental impacts.
 
 **Features**
